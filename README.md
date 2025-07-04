@@ -44,7 +44,7 @@ Source Code
 My fork (optimized for Termux):
 https://github.com/anonymususer04/mesa-Panfork-android
 
-Saikatsaha's fork (Mali G610 focus):
+Saikatsaha's fork :
 https://github.com/Saikatsaha1996/mesa-Panfrost-G610
 
 One of the preserved forks from icecream95's original Panfork:
