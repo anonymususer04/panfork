@@ -32,7 +32,7 @@ How to Test
 
 Installation
 
-1. Place the termux-panfork.tgz file in the root of your internal storage.
+1. Place the termux-panfork.tgz file of your internal storage.
 2. Run the following commands in Termux:
 
    cd .. && termux-setup-storage && tar -xvzf /sdcard/termux-panfork.tgz
