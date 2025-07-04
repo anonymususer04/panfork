@@ -2,6 +2,8 @@
 
 Termux with Pre-installed Mesa Panfork (Custom Build)
 
+https://github.com/anonymususer04/panfork/releases
+
 This is a Termux setup with Mesa Panfork pre-installed. Panfork was created some time ago when the Gallium Panfrost driver in Mesa 23.0.0 did not support the Mali-G610 GPU and the Panthor didn't exist yet. Developer icecream95 forked Mesa and implemented a custom UAPI called pan_base, which utilized kbase (ARM’s proprietary kernel driver) and provided ready-to-use functions for Gallium Panfrost code integration.
 
 Eventually, icecream95 abandoned the project and deleted the repository, but by then others had already forked it. Later on, saikatsaha forked the Panfork Mesa and made several improvements, including SW winsys — a software-based windowing system backend — to allow rendering without needing a panfrost.ko DRM kernel module,
